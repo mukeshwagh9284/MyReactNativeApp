@@ -55,11 +55,10 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-   "updates": {
-  "url": "https://expo.dev/accounts/mukeshwagh/projects/MyReactNativeApp/builds/d25c80ba-76e7-4017-95c2-0079ce45bdcd",
-  "checkAutomatically": "ON_LOAD",
-  "fallbackToCacheTimeout": 0
-}
-
+    "updates": {
+      "url": "https://u.expo.dev/b2d79625-7fab-4a83-8d5f-33a4499b02bd",
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    }
   }
 }
